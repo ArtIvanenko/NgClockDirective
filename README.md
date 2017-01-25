@@ -1,2 +1,2 @@
-# Simple original clock with angular directive
+# Simple original realtime clock with angular directive
 
